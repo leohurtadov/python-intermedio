@@ -33,3 +33,6 @@ https://docs.python.org/3/
 
 python.org/dev/peps/pep-0008/
 
+## Entornos virtuales
+> python 3 -m venv {nombre del entorno}
+
