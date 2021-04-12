@@ -36,3 +36,20 @@ python.org/dev/peps/pep-0008/
 ## Entornos virtuales
 > python 3 -m venv {nombre del entorno}
 
+Los entornos virtuales son vesiones especificas de Python que pueden servir para instalar modulos en especificos sin afectar la version de Python que esta instalada en el computador.
+
+Esto es muy bueno cuando se trabajan diferentes proyectos con Python que requieren diversos modulos con versiones especificas.
+
+## PIP
+Es el paquete de instalacion de python, como el npm de JavaScript
+> pip freeze 
+
+pip freeze muestra la lista de modulos intalados.
+
+> pip freeze > requirements.txt
+
+Este comando permite convertir nuestra lista de modulos y dependencias en un archivo que puede ser ejecutado.
+
+> pip install -r requirements.txt
+
+Asi es como se instalarian todos los modulos, esto es muy util cuando trabajamos en el mismo proyecto mas de una persona, asi el resto del equipo podra instalar exactamente los mismos modulos y versiones necesarios para el proyecto.
