@@ -53,3 +53,8 @@ Este comando permite convertir nuestra lista de modulos y dependencias en un arc
 > pip install -r requirements.txt
 
 Asi es como se instalarian todos los modulos, esto es muy util cuando trabajamos en el mismo proyecto mas de una persona, asi el resto del equipo podra instalar exactamente los mismos modulos y versiones necesarios para el proyecto.
+
+## Anaconda
+Sirve para ciencia de datos
+
+Ref: https://www.anaconda.com/products/individual
