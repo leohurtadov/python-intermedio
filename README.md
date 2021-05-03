@@ -58,3 +58,6 @@ Asi es como se instalarian todos los modulos, esto es muy util cuando trabajamos
 Sirve para ciencia de datos
 
 Ref: https://www.anaconda.com/products/individual
+
+## Manejo de errores
+Ref: https://docs.python.org/3/tutorial/errors.html
